@@ -6,6 +6,6 @@
 - What i do is **Coding and Programming**
 - What i do most of the time **Server Based Video Games for PC PORTS**
 ### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,npm,mysql,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,npm,mysql,py,php)](https://skillicons.dev)
 ### 🛠️ My Tech Stack & Games:
 ![Python](https://skillicons.dev/icons?i=py,java,js,cpp,html)<img src="logo.png" width="100" height="100" alt="Gundam OverBoost Icon"/>

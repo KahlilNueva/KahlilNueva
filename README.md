@@ -8,4 +8,4 @@
 ### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,npm,mysql,py)](https://skillicons.dev)
 ### 🛠️ My Tech Stack & Games:
-![Python](https://skillicons.dev/icons?i=py,java,js,cpp,html)<img src="logo.png" width="90" height="90" alt="Gundam OverBoost Icon"/>
+![Python](https://skillicons.dev/icons?i=py,java,js,cpp,html)<img src="logo.png" width="100" height="100" alt="Gundam OverBoost Icon"/>

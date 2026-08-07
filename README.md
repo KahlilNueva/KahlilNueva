@@ -8,4 +8,6 @@
 ### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,npm,mysql,py,php)](https://skillicons.dev)
 ### 🛠️ My Tech Stack & Server Based PC Ports:
-![Python](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,py)<img src="logo.png" width="100" height="100" alt="Gundam OverBoost Icon"/>
+![Python](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,py)<a href="https://gundam-vs.jp/extreme/index.html">
+    <img src="logo.png" width="100" height="100" alt="Gundam OverBoost Icon"/>
+</a>

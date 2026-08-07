@@ -5,6 +5,6 @@
 - Hobbies: I love playing competitive arcade games like **Gundam Extreme Vs. OverBoost**!
 
 ### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,npm,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,npm,mysql,py)](https://skillicons.dev)
 ### 🛠️ My Tech Stack & Games:
 ![Python](https://skillicons.dev/icons?i=py)<img src="logo.png" width="40" height="40" alt="Gundam OverBoost Icon"/>

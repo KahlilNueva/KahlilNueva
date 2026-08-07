@@ -7,5 +7,5 @@
 - What i do most of the time is **Server Based Video Games for PC PORTS**
 ### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,npm,mysql,py,php)](https://skillicons.dev)
-### 🛠️ My Tech Stack & Games:
+### 🛠️ My Tech Stack & Server Based PC Ports:
 ![Python](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,py)<img src="logo.png" width="100" height="100" alt="Gundam OverBoost Icon"/>

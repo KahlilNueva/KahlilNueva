@@ -5,7 +5,7 @@
 - Hobbies: I love playing competitive arcade games like **Gundam Extreme Vs. OverBoost**!
 
 ### 🛠️ Languages and Tools:
-- **JavaScript:** ![JavaScript](https://shields.io)
+- **JavaScript:** ![JS](https://shields.io)
 - **Python:** ![Python](https://shields.io)
 - **Java:** ![Java](https://shields.io)
 

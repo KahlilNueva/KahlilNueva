@@ -7,4 +7,4 @@
 ### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,npm,mysql,py)](https://skillicons.dev)
 ### 🛠️ My Tech Stack & Games:
-![Python](https://skillicons.dev/icons?i=py)<img src="logo.png" width="60" height="60" alt="Gundam OverBoost Icon"/>
+![Python](https://skillicons.dev/icons?i=py)<img src="logo.png" width="90" height="90" alt="Gundam OverBoost Icon"/>

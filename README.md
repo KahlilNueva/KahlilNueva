@@ -8,7 +8,7 @@
 
 ### 🛠️ My Tech Stack & Server Based PC Ports:
 <picture>
-  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,py,mysql,php,vscode,clion,powershell" alt="Python" style="cursor: default;" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,java,py,mysql,php,vscode,clion,powershell,pycharm" alt="Python" style="cursor: default;" />
 </picture>
 
 <picture>

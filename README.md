@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kahlil </h1>
 <h3 align="center">Call me AIZEN THE ONE</h3>
+![Static Badge](https://img.shields.io/badge/%20https%3A%2F%2Fimg.shields.io%2Fbadge%2Fbuild-passing-brightgreen%3Fstyle%3Dfor-the-badge)
 
 ### ABOUT ME
 - I’m currently using on **Visual Studio Code**

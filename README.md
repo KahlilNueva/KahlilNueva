@@ -6,7 +6,7 @@
 - What i do is **Coding and Programming**
 - What i do most of the time is **Server Based Video Games for PC PORTS**
 
-### My Additional Tools
+### 🛠️ My Additional Tools:
 <picture>
   <img src="https://skillicons.dev/icons?i=npm,vim,bootstrap" alt="Python" style="cursor: default;" />
 </picture>

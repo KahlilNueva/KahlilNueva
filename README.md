@@ -12,7 +12,7 @@
 </picture>
 
 <picture>
-  <img src="Mod.png" width="80" height="80" alt="Modded Boost" style="cursor: default;" />
+  <img src="Mod.png" width="60" height="50" alt="Modded Boost" style="cursor: default;" />
 </picture>
 
 ### ⚙️ My Additional Tools:

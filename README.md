@@ -17,5 +17,5 @@
 
 ### ⚙️ My Additional Tools:
 <picture>
-  <img src="https://skillicons.dev/icons?i=npm,vim,bootstrap,nodejs" alt="Python" style="cursor: default;" />
+  <img src="https://skillicons.dev/icons?i=npm,vim,bootstrap,nodejs,git" alt="Python" style="cursor: default;" />
 </picture>
